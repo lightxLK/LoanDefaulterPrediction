@@ -1,7 +1,9 @@
 # LoanDefaulterPrediction
 Made a Loan Defaulters' Risk Flag System which predicts if a person would default a loan, depending on their financial parameters.
 
-## Image 1: 
+# EDA
+
+Image 1: 
 Clustered BarChart: People with lower income are marked at risk of defaulting, irrespective of their age.
 Treemap: Highest no. of applicants belong to UP and Maharashtra followed by andhra pradesh and west bengal
 Doughnut chart: Highest no. Of applicants have rented house.
@@ -38,6 +40,7 @@ image 10:
 #The recall of 53.80% means that the model correctly identifies approximately 53.80% of the actual positive samples (defaults)
 #The F1 score of 54.05% is the harmonic mean of precision and recall and provides a balanced measure between them.
 #The accuracy of 88.75% indicates the overall correctness of the model's predictions. 
+![TestScore](https://github.com/user-attachments/assets/fed55790-89db-417f-8728-c4d33d0d0d40)
 
 image 11:
 #Based on the evaluation metrics , we can plot the  confusion matrix
