@@ -51,4 +51,4 @@ image 12:
 #"High AUC Indicates Good Model Discrimination on Imbalanced Data"
 
 image 13:
-#relatively higher scores of current house yrs, state and income signifies the high influence of these features in the prediction.
+#relatively higher scores of current house yrs, state and income signifies the high influence of these features in the prediction. 
